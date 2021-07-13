@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857522433045",
+    "project_id": "organizeit-tal-aviv",
+    "storage_bucket": "organizeit-tal-aviv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857522433045:android:e6ca2fbe6bcd203bd4f21c",
+        "android_client_info": {
+          "package_name": "com.example.organizeit_tal_aviv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857522433045-63mq14omrc5dghf1lrs6lvnp9t3pctq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd0W0kOPdLWBmNIE-KjkKrMDwW9OvqTNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857522433045-63mq14omrc5dghf1lrs6lvnp9t3pctq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

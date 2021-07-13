@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OrganizeIt_Tal_Aviv" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_grey</item> <!-- here to change primary color. -->
+        <item name="colorPrimaryVariant">@color/blue_grey</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yo</item>
+        <item name="colorSecondaryVariant">@color/yo</item>
+        <item name="colorOnSecondary">@color/dark_grey</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="facebookCustomButton" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/com_facebook_blue</item> <!-- here to change primary color. -->
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yo</item>
+        <item name="colorSecondaryVariant">@color/yo</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="customRipple">
+        <item name="android:colorControlHighlight">#2AD8D8D8</item>
+        <item name="android:radius">25dp</item>
+    </style>
+
+    <style name="customAddButton">
+        <item name="colorSecondary">@color/blue1</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/yo</item>
+        <item name="android:textColorPrimary">@color/dark_grey</item>
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>

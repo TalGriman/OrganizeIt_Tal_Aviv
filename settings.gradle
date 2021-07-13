@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "OrganizeIt_Tal_Aviv"
